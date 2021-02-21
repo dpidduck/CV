@@ -3,8 +3,14 @@ body {
 }
 
 h1 {
-    padding-bottom: 1rem; 
+    padding-bottom: 1rem;
     padding-top: 4rem;
+    font-family: 'Dosis', sans-serif;
+}
+
+p {
+    font-family: 'Dosis', sans-serif;
+    font-weight: normal;
 }
 
 .link-item {
@@ -12,31 +18,31 @@ h1 {
 }
 
 .contact-card {
-    text-align: center; 
-    background-color: #a4ebf3; 
-    padding-top: 5%; 
-    padding-bottom: 15%;
+    text-align: center;
+    background-color: #a4ebf3;
+    padding-top: 10%;
+    padding-bottom: 5%;
 }
 
 a:link {
-    color: #ccf2f4;
+    color: white;
 }
 
 a:visited {
-    color: #ccf2f4;
+    color: white;
 }
 
 #header-section {
-    padding-bottom: 12%; 
+    padding-bottom: 15%;
     background-color: #a4ebf3;
 }
 
 #headline {
-    padding-bottom: 5%; 
+    padding-bottom: 5%;
     background-color: #ccf2f4;
 }
 
 .profile-image {
-    padding-left: 25%; 
+    padding-left: 25%;
     padding-top: 7%;
 }
